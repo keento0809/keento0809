@@ -13,5 +13,3 @@
 <!-- <h3 align="left">Languages & Other Tools:</h3><p align="left"> -->
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keento0809&theme=vue-dark&show_icons=true&layout=compact)](https://github.com/mo-ri-regen/github-readme-stats) -->
-
-© 2022 GitHub, Inc.
