@@ -4,7 +4,7 @@
 - 👦 I'm studying programming at [CICCC](https://ciccc.ca/) in order to become a Front-end developer!
 - 🇯🇵 I'm from Japan and really into traveling around the world.　🛩
 - 📫 Please free to reach me kentos1112canada@gmail.com
-- 
+
 -　　📄 Here is my [portfolio website](https://portfolio-website-zeta-five.vercel.app/). Please come over anytime you want!
 - 📄 Know about my careers and experiences on [LinkedIn](https://www.linkedin.com/in/kento-honda-342a7a227/)
 
