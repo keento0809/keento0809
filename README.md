@@ -1,7 +1,7 @@
 <h2 align="left">Hello, I'm KENTO HONDA 👋</h2>
 <h3 align="left">A Front-End Developer actively seeking for job roles</h3>
 
-- 👦 I'm a challenge-driven and competent Front-End developer based in Vancouver!
+- 👦 I'm a challenge-driven and competent Front-End developer (Web Developer) based in Vancouver!
 - 🇯🇵 I'm from Japan and really into traveling around the world.　🛩
 - 📫 Please free to reach me kentos1112canada@gmail.com
 - 📄 Here is my [portfolio website](https://portfolio-website-zeta-five.vercel.app/). Please come over anytime you want!
