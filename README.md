@@ -6,6 +6,7 @@
 - 📫 Please free to reach me kentos1112canada@gmail.com
 - 📄 Here is my [portfolio website](https://portfolio-website-zeta-five.vercel.app/). Please come over anytime you want!
 - 📄 Know about my careers and experiences on [LinkedIn](https://www.linkedin.com/in/kento-honda/)
+- 📄 Also check it out my DEV community account on [DEV](https://dev.to/keento0809)
 
 <h3 align="left">My GitHub Stats:</h3>
 
